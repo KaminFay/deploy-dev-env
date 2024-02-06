@@ -1,0 +1,5 @@
+name="testing"
+image="testing-packer-Feb-06-2024"
+region="nyc1"
+size="s-2vcpu-4gb"
+domain_name="deploy.test.com"
